@@ -20,7 +20,7 @@
 
 ## 🤝 Our Pledge
 
-We, as members, contributors, and leaders, pledge to make participation in our community a **harassment-free experience for everyone**.
+We, as members, contributors, and leaders, pledge to make participation in our community a **harassment-free experience for everyone.**
 We are committed to creating an **inclusive, friendly, and respectful environment** where collaboration thrives. 🌍💜
 
 We pledge to:
@@ -134,7 +134,7 @@ Consequences for violations:
 
 ## 📜 Attribution  
 
-This Code of Conduct is adapted from the [Contributor Covenant (v3.0)](https://www.contributor-covenant.org/version/3/0/code_of_conduct/), with modifications tailored for **weather under the Nexus Spring of Code (NSoC’26)**.  
+This Code of Conduct is adapted from the [Contributor Covenant (v3.0)](https://www.contributor-covenant.org/version/3/0/code_of_conduct/), with modifications tailored for **weather under the Nexus Spring of Code (NSoC’26).**  
 
 📌 Original work licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)  
 
