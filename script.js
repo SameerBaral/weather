@@ -1,6 +1,7 @@
 // Myapi key
 const apiKey = config.WEATHER_API_KEY;
 
+// 🔹 GET WEATHER FUNCTION
 function getWeather() {
   const city = document.getElementById("city").value.trim();
 
